@@ -1,0 +1,3 @@
+Les notebooks présentés lors de cet EPU se sont largement inspirés de ceux trouvés içi :
+
+http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/
